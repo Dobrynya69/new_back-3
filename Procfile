@@ -1,1 +1,1 @@
-web: gunicorn MainApp.wsgi --log-file -
+web: gunicorn ManyPages.wsgi --log-file -
